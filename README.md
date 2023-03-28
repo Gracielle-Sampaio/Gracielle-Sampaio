@@ -2,7 +2,7 @@
 ## ✌️hi!
 
 - 🖌️Estou trabalhando com Front-end!
-- 🖥️Estudando HTML, CSS e JavaScript
+- 🖥️Estudando HTML, CSS, JavaScript e design de jogos
 - 🧙‍♀️Pronomes: ela/dela
 
 <div>
@@ -20,7 +20,7 @@
 ##
 
 <div>
-  <a href="https://www.twitch.tv/bysunshinearts" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  <a href="https://hello-graci.itch.io/" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   <a href="https://www.instagram.com/graciinh_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://twitter.com/bysunshinearts" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     <img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" height="80em">
