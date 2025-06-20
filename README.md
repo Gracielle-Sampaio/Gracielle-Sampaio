@@ -17,12 +17,4 @@
  - <img align="center" alt="" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-##
-
-<div>
-  <a href="https://hello-graci.itch.io/" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  <a href="https://www.instagram.com/graciinh_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="https://twitter.com/bysunshinearts" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    <img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" height="80em">
-</div>
 
