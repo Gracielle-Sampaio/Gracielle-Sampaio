@@ -2,7 +2,7 @@
 ## ✌️hi!
 
 - 🖌️Estou trabalhando com Front-end!
-- 🖥️Estudando HTML, CSS, JavaScript e design de jogos
+- 🖥️Estudando HTML, CSS, JavaScript e react
 - 🧙‍♀️Pronomes: ela/dela
 
 <div>
